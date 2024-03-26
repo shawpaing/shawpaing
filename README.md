@@ -14,6 +14,5 @@ I'm a student learning anything I can. Making visual novels and other games with
 * #### Tools: ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 
 ## 🤝Connect with me:
-<a href="https://www.linkedin.com/in/shawpaing/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" width="75" height="20"/></a>
 <a href="https://saelinstudios.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=flat" width="63" height="20"/></a>
 
