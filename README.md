@@ -1,5 +1,5 @@
 # Hello, I'm Shaw Paing :monocle_face:
-I'm a student learning anything I can. Making visual novels and other games with my beloved :smile:
+I'm a hobbyist learning anything I can. Making visual novels and other games with my beloved :smile:
 ## 💼 Projects I'm in
 * <a href="https://saelinstudios.itch.io/artificial" target="blank">Artificial</a> (SaeLin Studios) as Lead Developer, using Ren'Py
 * <a href="https://saelinstudios.itch.io/the-secret-society" target="blank">The Secret Society</a> (SaeLin Studios) as Lead Developer, using Ren'Py (work in progress)
